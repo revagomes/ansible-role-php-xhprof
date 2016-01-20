@@ -1,0 +1,4 @@
+---
+# defaults file for xhprof
+
+xhprof_output_dir: /tmp/xhprof

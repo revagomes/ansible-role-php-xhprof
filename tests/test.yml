@@ -1,0 +1,9 @@
+---
+- hosts: localhost
+  remote_user: root
+
+  roles:
+    - nbz4live.php-fpm
+    - revagomes.php-pecl
+    - ansible-role-php-xhprof
+
